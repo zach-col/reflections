@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you init a repository the current directory is then a repo.In order to track and create commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory and repo are different because the repo can track commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area will help by showing the current commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branche's would help in keeping history organized by labeling changes.
+
