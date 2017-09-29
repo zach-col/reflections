@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result of merging two branches will merge the child branch to the parent branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro of automatic merging is you only have to type one command and it is done and the con of auto merging is it does not alway's work. The con of doing a merge manually is having to find the difference yourself.
+ 
